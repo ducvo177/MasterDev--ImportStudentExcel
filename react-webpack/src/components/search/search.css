@@ -8,11 +8,12 @@ label{
 }
 input{
     width:200px;
+    font-size:12px;
 }
 .search-btn{
     margin:30px 0;
     width:300px;
-    
+    font-size:12px;
 }
 .search-result{
     position:absolute;
