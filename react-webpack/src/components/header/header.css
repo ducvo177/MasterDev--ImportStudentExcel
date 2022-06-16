@@ -1,0 +1,23 @@
+header{
+    
+    width:100vw;
+    
+}
+.header-image-container{
+    display:flex;
+    width:100%;
+    align-items:center;
+}
+
+.header-title{
+    text-align:center;
+    line-height:100px;
+    font-size:30px;
+    font-weight:bold;
+    text-transform: uppercase;
+}
+
+.header-avt{
+    width:250px;
+    margin:50px 0;
+}

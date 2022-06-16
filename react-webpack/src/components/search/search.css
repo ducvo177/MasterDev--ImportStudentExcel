@@ -1,0 +1,30 @@
+.search-container{
+    width:300px;
+    flex-wrap: wrap;
+    
+}
+label{
+    font-size:12px;
+}
+input{
+    width:200px;
+}
+.search-btn{
+    margin:30px 0;
+    width:300px;
+    
+}
+.search-result{
+    position:absolute;
+    left:25%;
+}
+table, th, td {
+    border:1px solid #14A05D;
+    font-size:13px;
+    padding:5px;
+    text-align:center;
+  }
+  h2{
+    line-height:40px;
+  }
+  
